@@ -2,7 +2,7 @@ body {
     width: 100%;
     height: 100%;
     position: fixed;
-    background-color: #34495e;
+    background-color: #151718;
 }
 
 .content {
@@ -27,12 +27,12 @@ body {
 }
 
 .content__container:before {
-    content: '{';
+    content: '[';
     left: 0;
 }
 
 .content__container:after {
-    content: '}';
+    content: ']';
     position: absolute;
     right: 0;
 }
