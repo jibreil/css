@@ -1,9 +1,9 @@
 # cool pure css things
 
-## [card](card)
+[card](card)
 
-## [glitch](glitch)
+[glitch](glitch)
 
-## [stack](stack)
+[stack](stack)
 
-## [welcome](welcome)
+[welcome](welcome)
