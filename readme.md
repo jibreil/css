@@ -1,6 +1,6 @@
 # cool pure css things
 
-* [animated material design](animatopn)
+* [animated material design](animation)
 * [card](card)
 * [cubes](cubes)
 * [glitch](glitch)
